@@ -1,0 +1,29 @@
+
+h1{
+    color:rgb(128, 184, 236);
+}
+p{
+    color:rgba(75, 139, 141, 0.849);
+    text-align: center;
+}
+h3{
+color: cornflowerblue;
+text-align: center;
+}
+
+  *{ 
+      border:solid
+  }  
+  
+  .header{
+    background-color: rgb(116, 116, 119) ;
+    display:flex;  
+    justify-content: space-evenly; 
+    
+  }  
+  .Grid{  
+      display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+  }
+  
